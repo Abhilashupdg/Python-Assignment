@@ -1,0 +1,4 @@
+2022-03-14 17:33:02,129:INFO:Succesful in establishing the connection to the database
+2022-03-14 17:33:02,129:INFO:<mysql.connector.connection_cext.CMySQLConnection object at 0x000002BB0A8D04F0>
+2022-03-14 17:33:02,144:INFO:[(1165, 'Jennings', 'Leslie', 'x3291', 'ljennings@classicmodelcars.com', '1', 1143, 'Sales Rep'), (1166, 'Thompson', 'Leslie', 'x4065', 'lthompson@classicmodelcars.com', '1', 1143, 'Sales Rep')]
+2022-03-14 17:33:02,144:INFO:(1165, 'Jennings', 'Leslie', 'x3291', 'ljennings@classicmodelcars.com', '1', 1143, 'Sales Rep')
